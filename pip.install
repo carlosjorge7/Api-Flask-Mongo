@@ -1,0 +1,9 @@
+#packages
+virtualenv
+flask 
+flask_pymongo
+flask-cors
+flask-jwt
+
+# proxy pip
+pip install --proxy="http://nombre-dominio:numero-puerto" nombre_paquete   
